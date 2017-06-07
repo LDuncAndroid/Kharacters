@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Test</string>
+    <string name="toolbar_title">Kotlin Is Great!</string>
+</resources>
